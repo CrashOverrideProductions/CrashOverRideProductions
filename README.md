@@ -13,9 +13,10 @@
 </p>
 
 </p>
-
+</br>
 <!-- Content -->
 ## 🔧 Technologies & Tools
+
 <p align="center">
 	  
 <br>
@@ -30,10 +31,33 @@
 	  
 <!-- Statistics -->
 ## &#x1f4c8; GitHub Stats
+
 <p align="center">
 <img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions" />
 <img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=8" />
-</p>	  
+</p>
+</br>
+
+## Licencing
+<p align="center">
+Unless stated in specific repositories, content in this Git is considered to be licenced under a "Creative Commons Licence" specifically "Attribution | Non-commercial | Share Alike 4.0 Australia (CC BY-NC-SA 4.0)"
+
+<p align"left">
+Under the following terms:
+
+• Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+• Non-commercial — You may not use the material for commercial purposes.
+
+• Share Alike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+• No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+</p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</p>
+
 </br>
 
 <!-- Socials -->
@@ -42,7 +66,13 @@
 <a href="https://www.facebook.com/justin.bland.127" >
    <img alt="" src="https://img.shields.io/badge/%20-Facebook-success?style=flat&logo=Facebook&logoColor=white&color=1877F2" />
 </a>
-	<a href="http://www.linkedin.com/in/justin-bland-8a6539137" >
+	<a href="https://www.linkedin.com/in/justin-bland-8a6539137" >
    <img alt="" src="https://img.shields.io/badge/%20-LinkedIn-success?style=flat&logo=LinkedIn&logoColor=white&color=0077B5" />
 </a>
 </p>
+
+	  
+	  
+
+	  
+	  
