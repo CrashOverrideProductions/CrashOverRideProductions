@@ -7,7 +7,15 @@
 
 ## Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+<!-- Platforms -->
+![](https://img.shields.io/badge/Platform-Windows-success?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Arduino-success?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
+<!-- Code -->
+![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%20Sharp-success?style=flat&logo=C%20Sharp&logoColor=white&color=2bbc8a)
+<!-- Editors -->
+![](https://img.shields.io/badge/IDE-Visual%20Studio-success?style=flat&logo=Visual%20Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-success?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 
 
 ## Socials
