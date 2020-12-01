@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?CrashOverrideProductions=anuraghazra)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
