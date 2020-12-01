@@ -30,9 +30,10 @@
 	  
 <!-- Statistics -->
 ## &#x1f4c8; GitHub Stats
+<p align="center">
 <img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions" />
 <img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=8" />
-	  
+</p>	  
 </br>
 
 <!-- Socials -->
