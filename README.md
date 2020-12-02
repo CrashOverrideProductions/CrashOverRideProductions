@@ -41,9 +41,11 @@
 </br>
 
 <!-- Licencing Always at the Bottom -->
-Unless stated in specific repositories, content in this Git is considered to be licenced under a "Creative Commons Licence" specifically "Attribution | Non-commercial | Share Alike 4.0 Australia (CC BY-NC-SA 4.0)"
+
 
 ### Licencing <img alt="" align="right" src="https://img.shields.io/badge/Licence-CC--BY--NC--SA--4.0-informational?style=flat&logo=Creative%20Commons&logoColor=white&color=EF9421" />
+
+Unless stated in specific repositories, content in this Git is considered to be licenced under a "Creative Commons Licence" specifically "Attribution | Non-commercial | Share Alike 4.0 Australia (CC BY-NC-SA 4.0)"
 
 **Attribution - NonCommercial - ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
@@ -61,9 +63,3 @@ Unless stated in specific repositories, content in this Git is considered to be 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 </p>
-
-	  
-	  
-
-	  
-	  
