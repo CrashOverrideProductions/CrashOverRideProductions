@@ -40,6 +40,36 @@
 </p>
 </br>
 
+
+<!-- Repos -->
+### Active Projects
+<p align="center">
+<a href="https://github.com/CrashOverrideProductions/GM-PIM-Reverse-Engineering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=GM-PIM-Reverse-Engineering" />
+</a>
+<a href="https://github.com/CrashOverrideProductions/GMUart-Bluetooth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=GMUart-Bluetooth" />
+</a>
+</p>
+
+### Research Projects
+<p align="center">
+<a href="https://github.com/CrashOverrideProductions/FDSLoader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=FDSLoader" />
+</a>
+<a href="https://github.com/CrashOverrideProductions/Ender_3_Pro-Dual-Extruder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Ender_3_Pro-Dual-Extruder" />
+</a>
+</p>
+	
+### Freebies
+<p align="center">
+<a href="https://github.com/CrashOverrideProductions/3D-Print-Files">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=3D-Print-Files" />
+</a>
+
+</p>
+
 <!-- Licencing Always at the Bottom -->
 
 
