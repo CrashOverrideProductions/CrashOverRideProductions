@@ -61,6 +61,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Ender_3_Pro-Dual-Extruder" />
 </a>
 </p>
+
+### Production Projects
+<p align="center">
+<a href="https://github.com/CrashOverrideProductions/ALDL-Adapter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ALDL-Adapter" />
+</a>
 	
 ### Freebies
 <p align="center">
