@@ -30,6 +30,9 @@
 <img alt="" src="https://img.shields.io/badge/IDE-Visual%20Studio-success?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91" />
 <img alt="" src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-success?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC" />
 <br>
+<img alt="" src="https://img.shields.io/badge/ECD-Eagle-informational?style=flat&logo=Autodesk&logoColor=white&color=0696D7" />
+<img alt="" src="https://img.shields.io/badge/CAD-Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=E51937" />
+<br>
 	  
 <!-- Statistics -->
 ## &#x1f4c8; GitHub Stats
