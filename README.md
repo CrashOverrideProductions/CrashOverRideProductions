@@ -70,7 +70,13 @@
 <a href="https://github.com/CrashOverrideProductions/ALDL-Adapter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ALDL-Adapter" />
 </a>
+
+<a href="https://github.com/CrashOverrideProductions/Retro-Console-Parts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Retro-Console-Parts" />
+</a>
 	
+</p>
+
 ### Freebies
 <p align="center">
 <a href="https://github.com/CrashOverrideProductions/3D-Print-Files">
