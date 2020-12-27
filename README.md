@@ -78,11 +78,17 @@
 </p>
 
 ### Freebies
-<p align="center">
+<p align="left">
 <a href="https://github.com/CrashOverrideProductions/3D-Print-Files">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=3D-Print-Files" />
 </a>
+</p>
 
+### Certifications and Misc.
+<p align="left">
+<a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ProfessionalDevelopment" />
+</a>
 </p>
 
 <!-- Licencing Always at the Bottom -->
