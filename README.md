@@ -39,7 +39,7 @@
 
 <p align="center">
 <img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions" />
-<img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=4&hide=C" />
+<img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=4&hide=C,asc" />
 </p>
 </br>
 
