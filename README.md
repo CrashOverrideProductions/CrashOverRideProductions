@@ -17,22 +17,26 @@
 
 <!-- Content -->
 ## 🔧 Technologies & Tools
+<p align='center'>
+<img alt="" src="https://img.shields.io/badge/Platform-Windows-success?style=flat&logo=Windows&logoColor=white&color=0078D6" /> 
+<img alt="" src="https://img.shields.io/badge/Platform-STMicroelectronics-success?style=flat&logo=STMicroelectronics&logoColor=white&color=03234B" /> 
+<img alt="" src="https://img.shields.io/badge/Platform-Espressif%20 Systems-success?style=flat&logo=Espressif&logoColor=white&color=E7352C" />
+<img alt="" src="https://img.shields.io/badge/Platform-Raspberry%20Pi-success?style=flat&logo=Raspberry%20Pi&logoColor=white&color=A22846" /> 
+<img alt="" src="https://img.shields.io/badge/Platform-Arduino-success?style=flat&logo=Arduino&logoColor=white&color=00979D" />|
 
-
-<p align="center">
-	  
 <br>
-<!--	  Test Here-->
-<img alt="" src="https://img.shields.io/badge/Platform-Windows-success?style=flat&logo=Windows&logoColor=white&color=0078D6" />
-<img alt="" src="https://img.shields.io/badge/Platform-Arduino-success?style=flat&logo=Arduino&logoColor=white&color=00979D" />
-<img alt="" src="https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=3776AB" />
+
 <img alt="" src="https://img.shields.io/badge/Code-C%20Sharp-success?style=flat&logo=C%20Sharp&logoColor=white&color=239120" />
+<img alt="" src="https://img.shields.io/badge/Code-C++-success?style=flat&logo=C%2B%2B&logoColor=white&color=00599C" />
+<img alt="" src="https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=3776AB" />
+
+<br>
+
 <img alt="" src="https://img.shields.io/badge/IDE-Visual%20Studio-success?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91" />
 <img alt="" src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-success?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC" />
-<br>
 <img alt="" src="https://img.shields.io/badge/ECD-Eagle-informational?style=flat&logo=Autodesk&logoColor=white&color=0696D7" />
 <img alt="" src="https://img.shields.io/badge/CAD-Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=E51937" />
-<br>
+</p>
 	  
 <!-- Statistics -->
 ## &#x1f4c8; GitHub Stats
@@ -45,27 +49,17 @@
 
 
 <!-- Repos -->
-### Active Projects
+#### Active Projects
 <p align="center">
+<a href="https://github.com/CrashOverrideProductions/Tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Tools" />
+</a>
 <a href="https://github.com/CrashOverrideProductions/GM-PIM-Reverse-Engineering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=GM-PIM-Reverse-Engineering" />
 </a>
-<a href="https://github.com/CrashOverrideProductions/GMUart-Bluetooth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=GMUart-Bluetooth" />
-</a>
 </p>
 
-### Research Projects
-<p align="center">
-<a href="https://github.com/CrashOverrideProductions/FDSLoader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=FDSLoader" />
-</a>
-<a href="https://github.com/CrashOverrideProductions/Ender_3_Pro-Dual-Extruder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Ender_3_Pro-Dual-Extruder" />
-</a>
-</p>
-
-### Production Projects
+#### Production Projects
 <p align="center">
 <a href="https://github.com/CrashOverrideProductions/ALDL-Adapter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ALDL-Adapter" />
@@ -77,23 +71,26 @@
 	
 </p>
 
-### Freebies
+#### Freebies
 <p align="center">
 <a href="https://github.com/CrashOverrideProductions/3D-Print-Files">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=3D-Print-Files" />
 </a>
+<a href="https://github.com/CrashOverrideProductions/BigTreeTech-GTR-V1_Mini12864_Marlin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=BigTreeTech-GTR-V1_Mini12864_Marlin" />
+</a>
 </p>
 
-### Certifications and Misc.
+#### Certifications and Misc.
 <p align="center">
 <a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ProfessionalDevelopment" />
 </a>
 </p>
 
+<br>
+
 <!-- Licencing Always at the Bottom -->
-
-
 ### Licencing <img alt="" align="right" src="https://img.shields.io/badge/Licence-CC--BY--NC--SA--4.0-informational?style=flat&logo=Creative%20Commons&logoColor=white&color=EF9421" />
 
 Unless stated in specific repositories, content in this Git is considered to be licenced under a "Creative Commons Licence" specifically "Attribution | Non-commercial | Share Alike 4.0 Australia (CC BY-NC-SA 4.0)"
