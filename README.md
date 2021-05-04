@@ -22,7 +22,7 @@
 <img alt="" src="https://img.shields.io/badge/Platform-STMicroelectronics-success?style=flat&logo=STMicroelectronics&logoColor=white&color=03234B" /> 
 <img alt="" src="https://img.shields.io/badge/Platform-Espressif%20 Systems-success?style=flat&logo=Espressif&logoColor=white&color=E7352C" />
 <img alt="" src="https://img.shields.io/badge/Platform-Raspberry%20Pi-success?style=flat&logo=Raspberry%20Pi&logoColor=white&color=A22846" /> 
-<img alt="" src="https://img.shields.io/badge/Platform-Arduino-success?style=flat&logo=Arduino&logoColor=white&color=00979D" />|
+<img alt="" src="https://img.shields.io/badge/Platform-Arduino-success?style=flat&logo=Arduino&logoColor=white&color=00979D" />
 
 <br>
 
