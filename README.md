@@ -1,23 +1,26 @@
 <p align="center">
 <!-- Header Logo -->
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100%" align="center" src ="https://github.com/CrashOverrideProductions/CrashOverRideProductions/blob/main/images/header.jpg?raw=falsee" >
 
-<!-- Header Title -->
- <h2 align="center">Something Something Dark Side</h2>
- <p align="center">Just a collection of random projects something something darkside, where are those good old fasioned values.....</p>
-<p align="center">
+ <p align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/CrashOverrideProductions?label=Follow&style=social">
 <img alt="GitHub sponsors" src="https://img.shields.io/github/sponsors/CrashOverrideProductions?&style=social">
 <img alt="GitHub starts" src="https://img.shields.io/github/stars/CrashOverrideProductions?label?affiliations=OWNER%20COLLABORATOR&style=social">
-
 </p>
 
+### Bio
+<p align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris gravida sit amet elit ac accumsan. Vestibulum ac mauris pellentesque metus auctor ullamcorper in a magna. Sed lacinia fermentum rhoncus. Vestibulum in est leo. Nulla convallis quam nec ante luctus, nec ornare eros vulputate. Nunc convallis vehicula ante quis dignissim. Curabitur gravida, nisi vitae scelerisque efficitur, turpis enim dignissim orci, eget condimentum risus eros commodo ex. In non ultrices turpis, at egestas sapien. Fusce quis feugiat neque. Pellentesque in pharetra purus. Sed porttitor quam non tristique auctor. Nulla lobortis sodales commodo. Aliquam ornare lacus leo, a mollis lectus aliquam vitae. Aliquam vel finibus nulla. Cras ornare imperdiet eros id interdum.
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-bland-8a6539137/) [![Website Badge](https://img.shields.io/badge/Website-336431?style=flat-square&logo=google-chrome&logoColor=white)](http://www.jbcomputerrepairs.com.au) [![Website Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](http://www.jbcomputerrepairs.com.au) [![Website Badge](https://img.shields.io/badge/eBay-E53238?style=flat-square&logo=eBay&logoColor=white)](https://www.ebay.com.au/usr/justiblan_8)
+
+
 </br>
 
 <!-- Content -->
-## 🔧 Technologies & Tools
-<p align='center'>
+<h4>Platforms and Technologies</H4>
+<p align='right'>
 <img alt="" src="https://img.shields.io/badge/Platform-Windows-success?style=flat&logo=Windows&logoColor=white&color=0078D6" /> 
 <img alt="" src="https://img.shields.io/badge/Platform-STMicroelectronics-success?style=flat&logo=STMicroelectronics&logoColor=white&color=03234B" /> 
 <img alt="" src="https://img.shields.io/badge/Platform-Espressif%20 Systems-success?style=flat&logo=Espressif&logoColor=white&color=E7352C" />
@@ -39,12 +42,15 @@
 </p>
 	  
 <!-- Statistics -->
-## &#x1f4c8; GitHub Stats
+#### GitHub Statistics
 
 <p align="center">
-<img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions" />
-<img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=4&hide=C,AGS%20Script" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=10&hide=Shell,OpenSCAD,Makefile,G-code&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" />
+
 </p>
+
 </br>
 
 
@@ -87,6 +93,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ProfessionalDevelopment" />
 </a>
 </p>
+
+
+
 
 <br>
 
