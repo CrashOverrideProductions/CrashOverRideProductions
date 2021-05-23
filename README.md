@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris gravida sit amet
 <p align="center">
 <img height="185em" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=10&hide=Shell,OpenSCAD,Makefile,G-code&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=10&hide=Shell,OpenSCAD,Makefile,G-code,JavaScript&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" />
 
 </p>
 
