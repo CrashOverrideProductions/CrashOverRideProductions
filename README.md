@@ -48,10 +48,8 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
 <img height="185em" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=8&hide=Shell,OpenSCAD,Makefile,G-code,JavaScript,Prolog&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" />
-
 </p>
 
-</br>
 
 ---
 ## Repositories
@@ -59,17 +57,23 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
 &nbsp;&nbsp;&nbsp; Cyber Security Tools
 
 <p align="center">
+  <a href="https://github.com/CrashOverrideProductions/Bad_USB">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB" /></a>
+	</td>
 
-<a href="https://github.com/CrashOverrideProductions/Tools">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Tools" /></a>
-		</td>
-Bad USB and Bad USB W Go Here
+  <a href="https://github.com/CrashOverrideProductions/Bad_USB_W">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Bad_USB_W" /></a>
+	</td>
 </p>
 
 <p align="center">
-LAN Tap and RPI Thing Here
+  <a href="https://github.com/CrashOverrideProductions/LAN_Tap">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=LAN_Tap"/></a>
+	</td>
 
-
+  <a href="https://github.com/CrashOverrideProductions/WiPi">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=WiPi" /></a>
+	</td>
 </p>
 
 &nbsp;&nbsp;&nbsp; Automotive Tools
@@ -86,8 +90,13 @@ LAN Tap and RPI Thing Here
 
 &nbsp;&nbsp;&nbsp; Game Console
 <p align="center">
-      <a href="https://github.com/CrashOverrideProductions/Retro-Console-Parts">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Retro-Console-Parts" /></a>
+  <a href="https://github.com/CrashOverrideProductions/Nintendo">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Nintendo" />
+  </a>
+
+  <a href="https://github.com/CrashOverrideProductions/Sony">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Sony" />
+  </a>
 </p>
 
 &nbsp;&nbsp;&nbsp; Professional Development
