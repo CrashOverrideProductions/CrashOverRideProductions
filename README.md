@@ -8,18 +8,16 @@
 <img alt="GitHub starts" src="https://img.shields.io/github/stars/CrashOverrideProductions?label?affiliations=OWNER%20COLLABORATOR&style=social">
 </p>
 
-### Bio
 <p align="justify">
 Against all the evil that Hell can conjure, all the wickedness that mankind can produce, we will send unto them only you; Rip and tear, until it is done....Wubba Lubba Dub Dub!... It is possible to commit no mistakes and still lose... You are dark-side intergalactic encyclopedia salesmen... Great, kid, don't get cocky.... Dude - You Did It! You Won A Fight!... I’m sorry, but your opinion means very little to me... No being is so important that he can usurp the rights of another... It’s a trap!... Sometimes science is more art than science... Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1... It took us 15 years and three supercomputers to MacGyver a system for the gate on Earth.... The dark side of the Force is a pathway to many abilities some consider to be unnatural... Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you... Things are only impossible until they're not... Mornings Are For Coffee And Contemplation... Indeed.
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-bland-8a6539137/) [![Website Badge](https://img.shields.io/badge/Website-336431?style=flat-square&logo=google-chrome&logoColor=white)](http://www.jbcomputerrepairs.com.au) [![Website Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](http://www.jbcomputerrepairs.com.au) [![Website Badge](https://img.shields.io/badge/eBay-E53238?style=flat-square&logo=eBay&logoColor=white)](https://www.ebay.com.au/usr/justiblan_8)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-bland-8a6539137/) [![Website Badge](https://img.shields.io/badge/Website-336431?style=flat-square&logo=google-chrome&logoColor=white)](http://www.jbcomputerrepairs.com.au) [![Website Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](http://www.jbcomputerrepairs.com.au) [![Website Badge](https://img.shields.io/badge/eBay-F5AF02?style=flat-square&logo=eBay&logoColor=white)](https://www.ebay.com.au/usr/justiblan_8)
 
-
-</br>
+---
 
 <!-- Content -->
-<h4>Platforms and Technologies</H4>
+<h2>Platforms and Technologies</H4>
 <p align='right'>
 <img alt="" src="https://img.shields.io/badge/Platform-Windows-success?style=flat&logo=Windows&logoColor=white&color=0078D6" /> 
 <img alt="" src="https://img.shields.io/badge/Platform-STMicroelectronics-success?style=flat&logo=STMicroelectronics&logoColor=white&color=03234B" /> 
@@ -40,67 +38,85 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
 <img alt="" src="https://img.shields.io/badge/ECD-Eagle-informational?style=flat&logo=Autodesk&logoColor=white&color=0696D7" />
 <img alt="" src="https://img.shields.io/badge/CAD-Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=E51937" />
 </p>
-	  
+
+---
+
 <!-- Statistics -->
-#### GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 <img height="185em" src="https://github-readme-stats.vercel.app/api?username=CrashOverrideProductions&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=10&hide=Shell,OpenSCAD,Makefile,G-code,JavaScript&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrashOverrideProductions&langs_count=8&hide=Shell,OpenSCAD,Makefile,G-code,JavaScript,Prolog&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" />
 
 </p>
 
 </br>
 
+---
+## Repositories
 
-<!-- Repos -->
-#### Active Projects
+&nbsp;&nbsp;&nbsp; Cyber Security Tools
+
 <p align="center">
+
 <a href="https://github.com/CrashOverrideProductions/Tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Tools" />
-</a>
-<a href="https://github.com/CrashOverrideProductions/GM-PIM-Reverse-Engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=GM-PIM-Reverse-Engineering" />
-</a>
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Tools" /></a>
+		</td>
+Bad USB and Bad USB W Go Here
 </p>
 
-#### Production Projects
 <p align="center">
-<a href="https://github.com/CrashOverrideProductions/ALDL-Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ALDL-Adapter" />
-</a>
+LAN Tap and RPI Thing Here
 
-<a href="https://github.com/CrashOverrideProductions/Retro-Console-Parts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Retro-Console-Parts" />
-</a>
-	
+
 </p>
 
-#### Freebies
+&nbsp;&nbsp;&nbsp; Automotive Tools
+
 <p align="center">
-<a href="https://github.com/CrashOverrideProductions/3D-Print-Files">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=3D-Print-Files" />
-</a>
-<a href="https://github.com/CrashOverrideProductions/BigTreeTech-GTR-V1_Mini12864_Marlin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=BigTreeTech-GTR-V1_Mini12864_Marlin" />
-</a>
+  <a href="https://github.com/CrashOverrideProductions/ALDL-Adapter">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ALDL-Adapter" />
+  </a>
+
+  <a href="https://github.com/CrashOverrideProductions/GM-PIM-Reverse-Engineering">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=GM-PIM-Reverse-Engineering" />
+  </a>
 </p>
 
-#### Certifications and Misc.
+&nbsp;&nbsp;&nbsp; Game Console
 <p align="center">
-<a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ProfessionalDevelopment" />
-</a>
+      <a href="https://github.com/CrashOverrideProductions/Retro-Console-Parts">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Retro-Console-Parts" /></a>
 </p>
 
+&nbsp;&nbsp;&nbsp; Professional Development
+<p align="center">
+  <a href="https://github.com/CrashOverrideProductions/Uni_Tasks">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Uni_Tasks" />		
+  </a>
+  
+  <a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=ProfessionalDevelopment" />
+  </a>
+</p>
 
+&nbsp;&nbsp;&nbsp; Freebies (MIT Licence)
+<p align="center">
+  <a href="https://github.com/CrashOverrideProductions/3D-Print-Files">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=3D-Print-Files" />
+  </a>
+        
+  <a href="https://github.com/CrashOverrideProductions/BigTreeTech-GTR-V1_Mini12864_Marlin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=BigTreeTech-GTR-V1_Mini12864_Marlin" />
+  </a>
 
+</p>
 
-<br>
+---
 
 <!-- Licencing Always at the Bottom -->
-### Licencing <img alt="" align="right" src="https://img.shields.io/badge/Licence-CC--BY--NC--SA--4.0-informational?style=flat&logo=Creative%20Commons&logoColor=white&color=EF9421" />
+## Licencing <img alt="" align="right" src="https://img.shields.io/badge/Licence-CC--BY--NC--SA--4.0-informational?style=flat&logo=Creative%20Commons&logoColor=white&color=EF9421" />
 
 Unless stated in specific repositories, content in this Git is considered to be licenced under a "Creative Commons Licence" specifically "Attribution | Non-commercial | Share Alike 4.0 Australia (CC BY-NC-SA 4.0)"
 
@@ -108,17 +124,17 @@ Unless stated in specific repositories, content in this Git is considered to be 
 
 **You are free to:**
 
-  **Share** — copy and redistribute the material in any medium or format
+ * **Share** — copy and redistribute the material in any medium or format
 
-  **Adapt** — remix, transform, and build upon the material
+ * **Adapt** — remix, transform, and build upon the material
 
 **Under the following terms:**
 
-  **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ * **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-  **NonCommercial** — You may not use the material for commercial purposes.
+ * **NonCommercial** — You may not use the material for commercial purposes.
 
-  **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+ * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
