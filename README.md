@@ -54,7 +54,7 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
 ---
 ## Repositories
 
-&nbsp;&nbsp;&nbsp; Cyber Security Tools
+&nbsp;&nbsp;&nbsp; <strong> Cyber Security Tools </strong>
 
 <p align="center">
   <a href="https://github.com/CrashOverrideProductions/Bad_USB">
@@ -76,7 +76,7 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
 	</td>
 </p>
 
-&nbsp;&nbsp;&nbsp; Automotive Tools
+&nbsp;&nbsp;&nbsp; <strong> Automotive Tools </strong>
 
 <p align="center">
   <a href="https://github.com/CrashOverrideProductions/ALDL-Adapter">
@@ -88,7 +88,7 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
   </a>
 </p>
 
-&nbsp;&nbsp;&nbsp; Game Console
+&nbsp;&nbsp;&nbsp; <strong> Game Console </strong>
 <p align="center">
   <a href="https://github.com/CrashOverrideProductions/Nintendo">
   		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Nintendo" />
@@ -99,7 +99,7 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
   </a>
 </p>
 
-&nbsp;&nbsp;&nbsp; Professional Development
+&nbsp;&nbsp;&nbsp; <strong> Professional Development </strong>
 <p align="center">
   <a href="https://github.com/CrashOverrideProductions/Uni_Tasks">
   	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=Uni_Tasks" />		
@@ -110,7 +110,7 @@ Against all the evil that Hell can conjure, all the wickedness that mankind can 
   </a>
 </p>
 
-&nbsp;&nbsp;&nbsp; Freebies (MIT Licence)
+&nbsp;&nbsp;&nbsp; <strong> Freebies (MIT Licence) </strong>
 <p align="center">
   <a href="https://github.com/CrashOverrideProductions/3D-Print-Files">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CrashOverrideProductions&repo=3D-Print-Files" />
